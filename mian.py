@@ -1,7 +1,7 @@
 from pygame import *
 
-//--test--//
-
+# //--test--//
+# klhb kjh vkhg khg kj kjh vjhl ljkjb lkjb kjb ljk
 class GameSprite(sprite.Sprite):
     def __init__(self, player_image, player_x, player_y, size_x, size_y):
         sprite.Sprite.__init__(self)
